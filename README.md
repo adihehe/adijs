@@ -1,0 +1,2 @@
+# adijs
+all about js
