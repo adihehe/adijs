@@ -6,3 +6,9 @@ console.log(af.toFixed(2));
 console.log(ad.toFixed(2));
 console.log(af.toPrecision(3));
 console.log(mp.toLocaleString());
+
+
+//maths
+console.log(Math.random()*10+50);
+console.log(Math.random()*51 + 50);
+
