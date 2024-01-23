@@ -11,4 +11,7 @@ console.log(mp.toLocaleString());
 //maths
 console.log(Math.random()*10+50);
 console.log(Math.random()*51 + 50);
+console.log(Math.PI);
+console.log(Math.min(4,1,5,3,2,6));
+console.log(Math.max(4,1,5,3,2,6));
 
